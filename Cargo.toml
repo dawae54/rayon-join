@@ -6,6 +6,7 @@ license = "MIT"
 readme = "README.md"
 repository = "https://github.com/dawae54/rayon-join"
 description = "Simple macro to call join from rayon with more than 2 arguments."
+documentation = "https://docs.rs/rayon-join"
 
 [dependencies]
 rayon = "1.11.0"

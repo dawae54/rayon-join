@@ -1,3 +1,4 @@
+//! A simple macro to call `rayon::join` with more than 2 arguments.
 #[macro_export]
 /// Executes multiple closures in parallel using `rayon::join`.
 /// ## Usage
