@@ -1,6 +1,6 @@
 [package]
 name = "rayon-join"
-version = "1.1.2"
+version = "1.11.0"
 edition = "2024"
 license = "MIT"
 readme = "README.md"

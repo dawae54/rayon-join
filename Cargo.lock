@@ -55,7 +55,7 @@ dependencies = [
 
 [[package]]
 name = "rayon-join"
-version = "1.1.2"
+version = "1.11.0"
 dependencies = [
  "rayon",
 ]
