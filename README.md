@@ -2,7 +2,7 @@
 Simple macro to call join from rayon with more than 2 arguments.
 
 ## Installation
-```shell
+```sh
 cargo add rayon-join
 ```
 
